@@ -1,0 +1,39 @@
+.jumbotron-bg{
+    background: linear-gradient(rgba(0,74,117,.7), rgba(0,0,0,.5)),url(assets/jumbotron-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    -webkit-background-size: cover ;
+    -moz-background-size: cover ;
+    -o-background-size: cover ;
+    padding: 15%;
+}
+
+.btn-outline-white
+{
+    border-color: white;
+    color: white;
+}
+
+.btn-outline-white:hover{
+    background-color: white;
+    color: rgba(0,74,117);
+}
+
+
+.jumbotron{
+    text-align: center;
+    color: white;
+}
+
+.jumbotron h1 {
+    font-size: 42px;
+}
+
+.jumbotron h2 {
+    font-size: 32px;
+    font-weight: normal;
+}
+
+.wrapper {
+    background-color: #e5e5e5;
+}
